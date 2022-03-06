@@ -5,6 +5,10 @@
 Dijkstra algorithm allows to find the shortest path from the starting node to a goal node in a 
 weighted graph. 
 
+## Libraries Required
+- Python3
+- OpenCV (cv2)
+- Numpy
 
 ## Steps to Run the code
 
